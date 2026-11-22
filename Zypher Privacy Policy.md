@@ -122,6 +122,5 @@ We reserve the right to modify or update this Privacy Policy at any time to refl
 
 For privacy inquiries, security disclosures, or requests to exercise your data protection rights, please contact the Zypher administration team:
 
-* **Official Support Server:** [Insert Discord Support Server Invite Link]
-* **Privacy & Legal Contact Email:** [Insert Contact Email Address]
-* **Official Website / Documentation:** [Insert Website URL, if applicable]
+* **Official Support Server:** [Discord Support Server](https://discord.gg/vRZrumZVVe)
+* **Privacy & Legal Contact Email:** [Contact Email](mailto:support.zypher@gmail.com).
